@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Yash 👋
 
-<!--
-**yashsalvi98/yashsalvi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Founder of **INSLIT** – a User Research & Testing Platform  
+💻 B.Tech CSE (AI/ML) student  
+⚡ I build real-world tech products combining AI + Web + Cloud  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I'm Building
+
+🔹 **INSLIT (Startup)**  
+A platform helping companies test products with real users and get actionable insights  
+
+🔹 **AI + System Projects**
+- Restaurant AI system for inventory prediction & forecasting  
+- Civic Issue Management Platform  
+- FairTrade Assist for MSMEs  
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** Learning (Firebase / Node.js direction)  
+**AI/ML:** Python, ML basics, forecasting  
+**Cloud:** AWS (learning + hands-on)  
+**Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📌 Featured Projects
+
+- INSLIT (User Research Platform)  
+- Attendance Management System  
+- Real Estate & Interior Website  
+- Restaurant AI Inventory System  
+
+---
+
+## 📈 Currently Focused On
+
+- Building INSLIT  
+- Learning AWS deeply  
+- Improving backend + system design  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: (add later)
+
+---
+
+> I believe in building products, not just projects.
