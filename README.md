@@ -47,7 +47,7 @@ A platform helping companies test products with real users and get actionable in
 
 ## 📫 Connect With Me
 
-- LinkedIn: (add later)
+- LinkedIn: www.linkedin.com/in/yash-salvi-750106338
 
 ---
 
